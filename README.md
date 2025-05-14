@@ -1,5 +1,7 @@
 This project is using a vote + React template.
 
+![Application Image](./application-image.png)
+
 ## Assessment
 Goals
 
