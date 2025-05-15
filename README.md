@@ -1,4 +1,4 @@
-This project is using a vote + React template.
+This project is using a Vite + React template.
 
 ![Application Image](./application-image.png)
 
